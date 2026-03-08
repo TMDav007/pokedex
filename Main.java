@@ -6,11 +6,13 @@ public class Main{
 
 		Pikachu p = new Pikachu();
 		Raichu ra = new Raichu();
+		Magnemite ma = new Magnemite();
 
 			
 
 		ra.showDetails();
 		p.getColor();
+		ma.showDetails();
 		
 	}
 	
