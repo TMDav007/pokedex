@@ -10,6 +10,7 @@ public class Main{
 		Magneton m = new Magneton();
 		Voltorb v = new Voltorb();
 		Electabuzz el = new Electabuzz();
+		Electrode e = new Electrode();
 
 			
 
@@ -19,6 +20,7 @@ public class Main{
 		m.showDetails();
 		v.getName();
 		el.showDetails();
+		e.showDetails();
 	}
 	
 }
