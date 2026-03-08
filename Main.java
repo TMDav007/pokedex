@@ -1,4 +1,5 @@
 import electric.*;
+import glass.*;
 
 public class Main{
 
@@ -12,9 +13,9 @@ public class Main{
 		Electabuzz el = new Electabuzz();
 		Electrode e = new Electrode();
 		Zapdos za = new Zapdos();
+		Bulbasaur bu = new Bulbasaur();
 
 			
-
 		ra.showDetails();
 		p.getColor();
 		ma.showDetails();
